@@ -1,0 +1,10 @@
+name: voxverlet
+description: Pure-Dart XPBD soft-body & Verlet constraint solver for glVolition.
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
